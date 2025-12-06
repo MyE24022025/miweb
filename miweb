@@ -1,16 +1,19 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>Lavidadeenriqueymedalin</title>
     <style>
-        body { font-family: Arial; padding: 20px; background: #>
-        h1 { color: #333; }
+        body { font-family: Arial; padding: 20px; background: #f2f2f2; color; #333>
+        h1 { color: #0066c; } 
         p { font-size: 18px; }
     </style>
 </head>
 <body>
     <h1>Bienvenido a mi página web</h1>
-    <p>Puedes editar este texto libremente desde el archivo ind>
+    <p>En mivida eres la mejor persona del mundo te amo con todo mi corazon mi amo>
+    <h2>MEDALIN Y ENRIQUE
+    <P>Hector y Cristina
 </body>
 </html>
+<img src="img/medalin.amor" alt="medalin.amor" width="300">
